@@ -1,6 +1,6 @@
 services:
   evolution2:
-    image: atendai/evolution-api:v2.1.0
+    image: atendai/evolution-api:v2.2.0
     networks:
       - chatwoot
     environment:
